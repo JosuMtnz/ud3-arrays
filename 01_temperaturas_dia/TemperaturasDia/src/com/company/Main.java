@@ -1,5 +1,6 @@
 package com.company;
 
+<<<<<<< Updated upstream
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -46,5 +47,13 @@ public class Main {
         }
 
         System.out.format("Media: %.2f", total/temperaturas.length);
+=======
+public class Main {
+
+    public static void main(String[] args) {
+	// write your code here
+
+
+>>>>>>> Stashed changes
     }
 }
