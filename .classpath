@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="01_temperaturas_dia/TemperaturasDia/src"/>
+	<classpathentry kind="src" path="02_lista_clase/ListaClase/src"/>
+	<classpathentry kind="src" path="03_contar_letras/ContarLetras/src"/>
+	<classpathentry kind="src" path="04_matriz_3x3/Matriz/src"/>
+	<classpathentry kind="src" path="05_matriz_10x10/Matriz_10x10/src"/>
+	<classpathentry kind="src" path="06_operaciones_matrices/OperacionesMatrices/src"/>
+	<classpathentry kind="output" path="01_temperaturas_dia/TemperaturasDia/out/production/TemperaturasDia"/>
+</classpath>
